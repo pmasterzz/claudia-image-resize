@@ -1,0 +1,11 @@
+{
+  "lambda": {
+    "role": "claudia-hello-world-api-executor",
+    "name": "claudia-hello-world-api",
+    "region": "eu-west-1"
+  },
+  "api": {
+    "id": "hlw9jquyuc",
+    "module": "app"
+  }
+}
